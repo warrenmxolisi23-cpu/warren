@@ -1,0 +1,22 @@
+# PAC-GENE
+
+**PAC-GENE** is a mini educational game inspired by Pac-Man, designed to teach and visualize gene expression in a fun and interactive way. Guide the tiny gene PAC-GENE through the cell, collect codons, and avoid RNA ghosts to complete transcription.
+
+## 🎮 Features
+
+- Story-driven transcription sequence
+- Glowing PAC-GENE player controlled by arrow keys
+- Semi-transparent RNA ghosts labeled with RNA codons (AUG)
+- Hexagon-shaped codons as collectible items
+- Live score display
+- Dark, science-themed visuals for a more mature look
+
+## 🕹 How to Play
+
+1. Open `index.html` (or your GitHub Pages link) in a browser.
+2. Click **▶ START TRANSCRIPTION** to begin the story.
+3. Use **Arrow Keys** to move PAC-GENE around the canvas.
+4. Collect all codons (green hexagons) to increase your score.
+5. Avoid RNA ghosts if you want to add challenge in future versions.
+
+## 📂 Project Structure
